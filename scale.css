@@ -1,0 +1,170 @@
+@media screen and (min-width:1200px) {
+header .buton-close-stil{
+	display:none;
+}
+
+.en{
+	margin-top: 30px;
+	float:right;
+	width:25px;
+	height:15px;
+}
+header{
+	
+	position:absolute;
+	color:white;
+	
+	width:100%;
+}
+header a{
+	font-family: 'Orbitron', sans-serif;
+	color:white;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:14px;
+	letter-spacing: 2px;
+}
+header ul{
+
+	float: left;
+	margin:0;
+	padding:0;
+}
+header li{
+	
+	display:inline;
+	padding:0 40px 0 0;
+
+}
+header .nav{
+	background-color: rgba(13, 13 ,13 );
+	padding: 30px;
+	margin:auto;
+}
+
+nav a:hover,
+nav a:focus{
+	color:#DDD;
+
+}
+.logo a {
+	letter-spacing: 0px;
+	font-family: 'Orbitron', sans-serif;
+	font-size:30px;
+	margin-right: 350px;
+}
+}
+
+
+@media screen and (max-width:1199px) {
+.new-top{
+	display: none;
+}
+header{
+	
+	position:absolute;
+	color:white;
+	
+	width:100%;
+}
+header a{
+	font-family: 'Orbitron', sans-serif;
+	color:white;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size:14px;
+	letter-spacing: 2px;
+}
+header ul{
+	list-style: 
+	margin:0;
+	padding:0;
+}
+header li{
+	
+	display:inline;
+	padding:0 40px 0 0;
+
+}
+header .nav{
+	background-color: rgb(13, 13 ,13);
+	padding: 30px;
+	margin:auto;
+}
+
+nav a:hover,
+nav a:focus{
+	color:#DDD;
+
+}
+.logo a{
+
+	margin-left: 3px;
+	font-family: 'Orbitron', sans-serif;
+	font-size:20px;
+	letter-spacing: 1px;
+}
+.logo{
+	margin-top: -14px;
+}
+
+
+
+
+
+.buton-close{
+	border:none;
+	background-color: rgba(13, 13 ,13 , 0.0);
+	color:white;
+	text-decoration:none;
+	font-size: 25px;
+	margin-top: 0px;
+}
+.buton-close-stil{
+	color:white;
+	text-decoration:none;
+	margin-top: -1px;
+	float: left;
+}
+
+#mySidebar{
+	width: 100%;
+	margin: auto;
+	background-color: rgb(13, 13 ,13 );
+	padding: 0;
+	float:left;
+	display: inline-block;
+
+}
+#mySidebar a{
+
+	min-width:300px;
+	font-family: 'Orbitron', sans-serif;
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding: 30px;
+	font-size: 13px;
+	text-align: center;
+	margin: auto;
+}
+
+.istoric{
+	letter-spacing: -1px;
+}
+
+
+
+}
+
+
+
+
+
+@media screen and (max-width: 700px){
+	.acasa .slogan{
+	font-size: calc(12px + 3.8vw);
+	padding: 10vw;
+}
+	
+}

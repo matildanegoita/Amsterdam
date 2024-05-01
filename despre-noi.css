@@ -1,0 +1,174 @@
+/*---------------------Despre noi------------------*/
+.acasa-prezentare span{
+	font-weight:bold;
+	font-size:35px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+
+}
+
+
+.acasa-prezentare{
+
+	background:url(../imagini/fundal3.jpg) no-repeat 50% 50% fixed;
+	height: 100vh;
+	width: 100%;
+	width: auto;
+    overflow: auto;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-attachment: scroll;
+}
+.acasa-atractii{
+
+	background:url(../imagini/fundal20.jpg) no-repeat 50% 50% fixed;
+	height: 100vh;
+	width: 100%;
+	width: auto;
+    overflow: auto;
+	background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-webkit-background-size: cover;
+	background-attachment: scroll;
+}
+
+
+.acasa-prezentare .container{
+    max-width:1000px;
+	text-align: center;
+	left:0;
+	right:0;
+	position:absolute;
+	background: rgba(13, 13, 13, 0.8);
+	color:white;
+	margin-top:40vh;
+	padding:20px;
+
+	
+}
+
+.acasa-prezentare .container .slogan {
+	font-weight:500;
+	font-family: 'Alegreya Sans', cursive;
+	font-size:20px;background: rgba(13, 13, 13, 0.6);
+	text-transform:uppercase;
+	font-weight:100;
+	font-family: 'Alegreya Sans', cursive;
+	font-size:5vh;
+	color:rgba(255,255, 255, 0.9);
+	
+
+}
+.acasa-atractii .container{
+    max-width:1000px;
+	text-align: center;
+	left:0;
+	right:0;
+	position:absolute;
+	background: rgba(13, 13, 13, 0.8);
+	color:white;
+	margin-top:40vh;
+	padding:20px;
+
+	
+}
+
+.acasa-atractii .container .slogan {
+	font-weight:500;
+	font-family: 'Alegreya Sans', cursive;
+	font-size:20px;background: rgba(13, 13, 13, 0.6);
+	text-transform:uppercase;
+	font-weight:100;
+	font-family: 'Alegreya Sans', cursive;
+	font-size:5vh;
+	color:rgba(255,255, 255, 0.9);
+	
+
+}
+
+.istoric-prezentare h1 {
+
+	text-align: left;
+	margin-top:100px;
+	margin-bottom:120px;
+	font-size:20px;
+	font-weight:100;
+	
+}
+.istoric-prezentare h3 {
+
+	text-align: left;
+	margin-top:100px;
+	margin-bottom:120px;
+	font-size:20px;
+	font-weight:100;
+	
+}
+
+.istoric-prezentare h2{
+	text-align: left;
+	margin-top:80px;
+	font-size:20px;
+	font-weight:100;
+}
+.istoric-prezentare h2{
+	margin-top:120px;
+	margin-bottom:100px;
+	font-size:20px;
+	font-weight:100;
+	
+}
+
+.istoric-prezentare h1 span{
+
+	font-size:20px;
+	
+
+}
+.istoric-prezentare h3 span{
+
+	font-size:20px;
+	
+
+}
+.istoric-prezentare h2 span{
+	font-size:20px;
+	
+
+}
+.istoric-prezentare h2 span1{
+	font-size:20px;
+	
+
+}
+#isu-index{
+	width: 80%;
+	margin-left:80px;
+	margin-top:-70px;
+	margin-bottom:75px;
+	text-align: left;
+    font-size:22px;
+	font-weight:100;
+	font-family: 'Alegreya Sans', cursive;
+	display: none;
+
+	
+}
+.istoric-prezentare h3 span{
+	font-size:20px;
+		text-align: left;
+	
+}
+	hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin-top:120px;
+    padding: 0;
+}
+
+
+
